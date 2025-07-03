@@ -16,3 +16,6 @@ packages to be installed for deploying are
     To check the working of this project in POSTMAN we need to search for the url(http://localhost:8080/auth/signup) for signing up by three key value pair{ "name":"piyush","email":"piyushsharma@gmail.com",
     "password":"spsghy34"} and url(http://localhost:8080/auth/login) for login using two key value pair { "email":"piyushsharma@gmail.com",
     "password":"spsghy34"} using POST method.
+
+I can use HTML and CSS quiet well but I am still learning how to integrate frontend and backend together so i am just submitting the backend part.
+Thank you.
